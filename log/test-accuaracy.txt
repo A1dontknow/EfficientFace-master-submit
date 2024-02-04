@@ -1,0 +1,14 @@
+orignal:                                    87.288
+orignal_no_pretrain:                        76.728
+preprocess_v2:                              87.810
+preprocess_v2 + replace operator * to + :   87.744
+pv2_lowl2:                                  88.233
+pv2_nol2:                                   87.679
+shufflenet-v2_no_pretrain:                  69.426
+Resnet101_no_pretrain:                      77.347
+LDG (Resnet50):                             87.810
+MTEmotiEffNet (MTL):                        85.072
+MTEmotiEffNet (VGAF):                       84.289
+MTEmotiEffNet (AFEW):                       83.638
+MTEmotiEffNet (best):                       86.343
+EAC                              	    89.63
